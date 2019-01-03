@@ -1,0 +1,4 @@
+my:
+  eureka:
+    host: localhost
+    port: 8761
